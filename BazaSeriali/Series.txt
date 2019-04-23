@@ -1,0 +1,10 @@
+9
+Nowy_serial akcja Kamil Luwanski 10 0 50 1 13 2 7 7 4
+Wikingowie dramat_historyczny Michael Hirst 9 0 50 2 10 4 5 5 3
+Flash akcja Grag Berlanti 8 1 50 2 15 3 5 5 4
+Arrow akcja Greg Berlanti 8 1 50 1 23 4 3 6 15
+The_Walking_Dead horror Frank Darabont 8 0 60 1 16 8 5 9 8
+Peaky_Blinders historyczny Mateusz Urbanski 7 1 40 1 17 4 3 5 13
+Wladca_zwierzat przygodowy Peter Andrikidis 5 0 60 1 22 2 4 3 22
+Osmy horror Jan Nowak 4 1 60 3 15 3 13 7 13
+Kolejny dramat Jan Kowalski 2 0 45 2 2 2 2 2 2
